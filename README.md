@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanket1704
 - 👀 I’m interested in Artificial Intelligence and Data Science.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 How to reach me : Instagram handle @sanket_jain1704
                         LinkedIn @sanketjain1704
 
